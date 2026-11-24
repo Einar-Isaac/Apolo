@@ -1,0 +1,1 @@
+# Para instalar la aplicación solo descarguen el .exe y ejecútenlo :v
